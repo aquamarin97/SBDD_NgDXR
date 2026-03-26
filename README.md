@@ -1,8 +1,6 @@
 # In Silico Identification of Novel Inhibitors Targeting NgDXR in *Neisseria gonorrhoeae*
 
-<p align="center">
-  <img src="https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp" alt="MSc Thesis"/>
-</p>
+[MSc Thesis - YÖK Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp)
 
 ---
 
@@ -241,8 +239,8 @@ ngdxr-drug-design/
 
 Specializing in computational drug design, molecular modeling, and scientific software development.
 
-📫 [your.email@example.com](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://linkedin.com/in/USERNAME) | [Upwork](https://upwork.com/freelancers/USERNAME)
+📫 mustafanecati184@gmail.com(mailto:mustafanecati184@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/mustafa-necati-haşimoğlu-4b4936223) | [Upwork](https://www.upwork.com/freelancers/~0194e609aca8e35e26?mp_source=share)
 
 ---
 
