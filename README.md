@@ -1,6 +1,6 @@
 # In Silico Identification of Novel Inhibitors Targeting NgDXR in *Neisseria gonorrhoeae*
 
-[MSc Thesis - YÖK Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp)
+[MSc Thesis - YÖK Ulusal Tez Merkezi](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=usXiZIM9Lp0wk-YzRoaT-72paRNNYlOBx5hN35sh_W_VpiDtCmZ_zYeHand8_6dL)
 
 ---
 
